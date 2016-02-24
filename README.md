@@ -1,4 +1,4 @@
-# PageRank_simple
+# PageRank_iterative
 <p>This PageRank program was written for a graduate course in Realtime and Big Data Analysis. It is meant to test basic input with a known format that consists of characters and doubles, specifically:</p>
 <ul>
 <li>A C F 0.166667</li>
