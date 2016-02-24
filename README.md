@@ -8,4 +8,4 @@
 <li>E F 0.166667</li>
 <li>F B C 0.166667</li>
 </ul>
-<p>The output is the result of a single iteration, formatted the same as the input.</p>
+<p>The output is the result of a three iterations, formatted the same as the input.</p>
