@@ -1,6 +1,6 @@
 # PageRank_simple
 <p>This PageRank program was written for a graduate course in Realtime and Big Data. It is meant to test basic input with a known format that consists of characters and doubles, specifically:</p>
-<ul style="list-style-type:none">
+<ul style="list-style-type:square">
 <li>A C F 0.166667</li>
 <li>B D E F 0.166667</li>
 <li>C A B 0.166667</li>
